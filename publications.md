@@ -29,6 +29,7 @@ permalink: /publications/
 - Read, D., & Hills, T. T. (2021). A negotiation in *Middlemarch*. *Negotiation Journal*, 37(2), 203–220. [DOI](https://doi.org/10.1111/nejo.12355)
 - Taj, U., Schmidtke, K., Vlaev, I., & Read, D. (2021). Choice of methods can determine which behavioral determinants are identified for targeting. *Journal of Health Psychology*. [DOI](https://doi.org/10.1177/1359105320962267)
 - Luckman, A., Zeitoun, H., Isoni, A., Loomes, G., Vlaev, I., Powdthavee, N., & Read, D. (2021). Risk compensation during COVID-19: The impact of face mask usage on social distancing. *Journal of Experimental Psychology: Applied*.
+- Patel, K., Schmidtke, K. A., Taj, U., Dangazele, N., Read, D., & Vlaev, I. (2021). Co-designing theoretically informed, conceptual prototypes for interventions to increase hand hygiene in hospital settings: A case study. *Design for Health*, 5(3), 313–329. [DOI](https://doi.org/10.1080/24735132.2022.2031791)
 - Read, D. (2020). The five games of Mr Edgar Allan Poe: A study of strategic thought in “The Purloined Letter”. *Rationality and Society*, 32(4), 369–401.
 - Hafner, R. J., Elmes, D., & Read, D. (2020). Exploring the role of alignability effects in promoting uptake of energy-efficient technologies. *Journal of Experimental Psychology: Applied*, 26(2), 300–311. [DOI](https://doi.org/10.1037/xap0000253)
 - Sah, S., & Read, D. (2020). Mind the (information) gap: Strategic nondisclosure by marketers and interventions to increase consumer deliberation. *Journal of Experimental Psychology: Applied*, 26(3), 432.
