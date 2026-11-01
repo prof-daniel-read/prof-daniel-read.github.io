@@ -4,11 +4,11 @@ description: Professor of Behavioural Science, Warwick Business School
 affiliation: Warwick Business School, University of Warwick
 
 # Leave a value empty to hide it on the site.
-email:                                  # e.g. someone@wbs.ac.uk
+email: daniel.read@wbs.ac.uk
 orcid: 0000-0001-6672-9310
 google_scholar:                         # full URL of your Google Scholar profile
 photo:                                  # e.g. /assets/photo.jpg  (upload the file first)
-cv_pdf:                                 # e.g. /assets/cv.pdf     (upload the file first)
+cv_pdf: /assets/cv.pdf
 
 # Navigation menu. To add a page: create e.g. research.md, then add a line here.
 nav:
