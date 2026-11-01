@@ -1,18 +1,23 @@
 # Site settings — edit these
 title: Daniel Read
 description: Professor of Behavioural Science, Warwick Business School
-email: you@example.com        # change or delete
+affiliation: Warwick Business School, University of Warwick
+
+# Leave a value empty to hide it on the site.
+email:                                  # e.g. someone@wbs.ac.uk
+orcid: 0000-0001-6672-9310
+google_scholar:                         # full URL of your Google Scholar profile
+photo:                                  # e.g. /assets/photo.jpg  (upload the file first)
+cv_pdf:                                 # e.g. /assets/cv.pdf     (upload the file first)
 
 # Navigation menu. To add a page: create e.g. research.md, then add a line here.
 nav:
   - title: Home
     url: /
+  - title: Publications
+    url: /publications/
   - title: CV
     url: /cv/
-  # - title: Research
-  #   url: /research/
-  # - title: Teaching
-  #   url: /teaching/
 
 markdown: kramdown
 exclude:

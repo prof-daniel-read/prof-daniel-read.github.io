@@ -1,36 +1,31 @@
-# Personal website
+# prof-daniel-read.github.io
 
-A minimal Jekyll site for GitHub Pages. No build tools needed on your computer — GitHub builds it.
+Personal academic website, built by GitHub Pages with Jekyll. No build tools are needed on your computer — edit a file on GitHub (pencil icon), commit, and the site rebuilds in a minute or two.
+
+Live at <https://prof-daniel-read.github.io>.
 
 ## Files
 
 | File | What it is |
 |---|---|
-| `_config.yml` | Site title, email, and the navigation menu |
-| `index.md` | Home page (bio + photo) |
-| `cv.md` | CV page |
-| `assets/photo.jpg` | Your photo — add this |
-| `assets/cv.pdf` | Your CV PDF — add this |
+| `_config.yml` | Site title, email, ORCID, Google Scholar, photo, CV PDF, and the navigation menu |
+| `index.md` | Home page (bio + recent work) |
+| `publications.md` | Full publication list |
+| `cv.md` | CV page (positions, education, grants, reports, teaching) |
+| `pdfs/` | Paper PDFs linked from the publications page |
 | `assets/style.css` | Look and feel |
 | `_layouts/default.html` | Page template shared by all pages (header, menu, footer) |
 
-## Publishing (one time)
+## Common edits
 
-1. On GitHub, create a new repository named **`yourusername.github.io`** (replace with your GitHub username). Make it public.
-2. Upload all these files, keeping the folders (drag the contents of this folder onto the repo's "Add file → Upload files" page).
-3. Add `assets/photo.jpg` and `assets/cv.pdf`.
-4. Go to **Settings → Pages**, and under "Build and deployment" choose **Deploy from a branch**, branch `main`, folder `/ (root)`. Save.
-5. After a minute or two the site is live at `https://yourusername.github.io`.
-
-If you name the repo something else (e.g. `website`), the site appears at `https://yourusername.github.io/website/` instead; everything still works.
-
-## Editing
-
-Edit any `.md` file directly on GitHub (pencil icon) and commit. The site rebuilds automatically.
+- **Add a photo:** upload it as `assets/photo.jpg`, then set `photo: /assets/photo.jpg` in `_config.yml`.
+- **Add a CV PDF:** upload it as `assets/cv.pdf`, then set `cv_pdf: /assets/cv.pdf` in `_config.yml`. Download links appear on the home and CV pages.
+- **Show email / Google Scholar:** fill in `email:` or `google_scholar:` in `_config.yml`. Empty values are hidden.
+- **Add a publication:** copy a line in `publications.md`, edit it, keep newest first. To link a PDF, upload it to `pdfs/` and add `[PDF](/pdfs/FILENAME.pdf)`.
 
 ## Adding a page
 
-1. Create `research.md`:
+1. Create e.g. `research.md`:
 
    ```
    ---
@@ -44,8 +39,4 @@ Edit any `.md` file directly on GitHub (pencil icon) and commit. The site rebuil
    Your text here.
    ```
 
-2. Uncomment (or add) the matching lines under `nav:` in `_config.yml`.
-
-## Custom domain (optional)
-
-Settings → Pages → Custom domain, then follow GitHub's instructions for your DNS provider.
+2. Add a matching entry under `nav:` in `_config.yml`.
