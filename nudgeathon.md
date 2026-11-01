@@ -23,6 +23,7 @@ Challenges have included helping people save more, stopping celebratory gunfire 
   <dt>2017</dt><dd>Convenor, “Running a Nudgeathon”, Behavioural Science &amp; Public Policy Workshop, University of Warwick.</dd>
   <dt>2017</dt><dd>Judge, Australia’s first Nudgeathon, Queensland University of Technology, with the Behavioural Economics Team of the Australian Government (BETA).</dd>
   <dt>2017</dt><dd>Mexico’s first Nudgeathon, UNAM, Mexico City: reducing bottled-water consumption on campus.</dd>
+  <dt>2021</dt><dd>Hand-hygiene Nudgeathon: a one-day workshop with hospital infection-prevention and quality-improvement staff to co-design interventions that increase hand hygiene, funded by the Health Foundation (published as Patel et al., 2021).</dd>
   <dt>2024</dt><dd>Warwick Nudgeathon 2024, Warwick Business School.</dd>
 </dl>
 
