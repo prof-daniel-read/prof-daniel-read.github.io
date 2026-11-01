@@ -158,3 +158,6 @@ dl.cv dd { margin: 0; }
 }
 .site-footer .links { display: flex; flex-wrap: wrap; gap: 1rem; }
 .site-footer a { color: var(--muted); }
+
+/* Logo at the top of a page (e.g. Nudgeathon) */
+.page-logo { display: block; max-width: 14rem; max-height: 7rem; margin: 0 0 1.25rem; }

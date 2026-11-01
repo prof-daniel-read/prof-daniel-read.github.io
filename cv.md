@@ -35,6 +35,10 @@ permalink: /cv/
 
 - Associate Editor, *Management Science*
 
+## Nudgeathon
+
+Co-founder of the Nudgeathon (2015). See the [Nudgeathon page]({{ '/nudgeathon/' | relative_url }}).
+
 ## Publications
 
 See the [publications page]({{ '/publications/' | relative_url }}).
