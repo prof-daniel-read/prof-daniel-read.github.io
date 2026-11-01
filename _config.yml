@@ -1,0 +1,19 @@
+# Site settings — edit these
+title: Daniel Read
+description: Professor of Behavioural Science, Warwick Business School
+email: you@example.com        # change or delete
+
+# Navigation menu. To add a page: create e.g. research.md, then add a line here.
+nav:
+  - title: Home
+    url: /
+  - title: CV
+    url: /cv/
+  # - title: Research
+  #   url: /research/
+  # - title: Teaching
+  #   url: /teaching/
+
+markdown: kramdown
+exclude:
+  - README.md
