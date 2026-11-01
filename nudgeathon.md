@@ -10,7 +10,7 @@ logo:
 
 # Nudgeathon
 
-I am a co-founder, with Umar Taj and [Nobulali Dangazele](https://www.gibs.co.za/faculty/204415-nobulali-dangazele), of the Nudgeathon, developed in the Behavioural Science Group at Warwick Business School in 2015. A Nudgeathon is a short, intensive competition in which teams draw on behavioural science, design thinking and drama theory to devise practical solutions to a behavioural problem set by a partner organisation. More than three dozen Nudgeathons have since been run across four continents, including events in the UK, Australia, Mexico, China, Sweden, Kuwait and South Africa.
+I am a co-founder, with Umar Taj, [Nobulali Dangazele](https://www.gibs.co.za/faculty/204415-nobulali-dangazele) and [Julia Kolodko](https://www.juliakolodko.com/about), of the Nudgeathon, developed in the Behavioural Science Group at Warwick Business School in 2015. A Nudgeathon is a short, intensive competition in which teams draw on behavioural science, design thinking and drama theory to devise practical solutions to a behavioural problem set by a partner organisation. More than three dozen Nudgeathons have since been run across four continents, including events in the UK, Australia, Mexico, China, Sweden, Kuwait and South Africa.
 
 Challenges have included helping people save more, stopping celebratory gunfire in Lebanon, preventing stroke in patients with atrial fibrillation, increasing access to HIV pre-exposure prophylaxis (PrEP), encouraging women of childbearing age to take folic acid, reducing litter, and saving energy on campus.
 
